@@ -1,0 +1,25 @@
+.jumbotron {
+  margin-top: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.lose {
+  background-color: #ef5350;
+  color: white;
+}
+
+.win {
+  background-color: #43a047;
+  color: white;
+}
+
+.wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+}

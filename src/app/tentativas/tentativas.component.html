@@ -1,0 +1,6 @@
+<!--
+<p class="fa {{caracaoVazio}} fa-2x text-danger"></p>
+<p class="fa {{caracaoVazio}} fa-2x text-danger"></p>
+<p class="fa {{caracaoCheio}} fa-2x text-danger"></p>
+-->
+<p *ngFor="let coracao of coracoes" class="fa {{coracao.exibeCoracao()}} fa-2x text-danger"></p>
