@@ -1,6 +1,6 @@
 # Aprendendo Inglês
 
-[exemple](https://lucasgferreira.github.io/aprendendo-ingles/page)
+[exemple](https://lucasgferreira.github.io/aprendendo-ingles/page/)
 
 ## Development server
 
